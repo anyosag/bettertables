@@ -1,0 +1,9 @@
+{
+	"id": "bettertables",
+	"name": "BetterTables",
+	"version": "1.5.12",
+	"minAppVersion": "1.12.0",
+	"description": "Formulas in native Obsidian tables: A1 references, units, references between tables.",
+	"author": "Gonzalo Anyosa Galvez",
+	"isDesktopOnly": false
+}
